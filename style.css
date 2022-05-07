@@ -1,0 +1,59 @@
+.profile{
+    
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.menu
+{
+    list-style: none;
+    font-family: sans-serif;
+    position:fixed;
+    top:0px;
+    cursor: pointer;
+    width: 100%;
+    background-color: darkorchid;
+}       
+
+.links {
+float: left;
+color: #ff009d;
+font-family:fantasy;
+font-size: 20px;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+}
+.links:hover {
+    background-color:#ffd900;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#name{
+    font-family: 'Updock', cursive;
+}
+#name1{
+    font-family: 'Updock', cursive;
+}
+p{
+font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;
+}
+a{
+    text-decoration: none; 
+    color: darkturquoise;
+    font-size: 25px;
+}
+.article:hover{
+    color: fuchsia;
+} 
+#writings a{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: deeppink !important;
+}  
+#contact{
+    background-color: darkorange;
+}
